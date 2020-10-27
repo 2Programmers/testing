@@ -1,1 +1,1 @@
-exit("test");
+exit(exec("ls"));
